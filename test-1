@@ -1,1 +1,3 @@
-to test push
+to test push and pull
+git pull --> it will  bring the changes from central repo and merges to local repo and to call the latest changes we use pull
+git push --> if we want to add the files from our locat repo to central repo we use git push
